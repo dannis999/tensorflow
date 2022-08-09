@@ -1,6 +1,17 @@
 Tensorflow is too difficult to use, so I suggest everyone to switch to pytorch. Now I have changed the code in this repository to pytorch. Have fun!
 
+<<<<<<< HEAD
 ![PyTorch Logo](https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.png)
+=======
+[![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=plastic)](https://badge.fury.io/py/tensorflow)
+[![PyPI](https://badge.fury.io/py/tensorflow.svg)](https://badge.fury.io/py/tensorflow)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4724125.svg)](https://doi.org/10.5281/zenodo.4724125)
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/1486/badge)](https://bestpractices.coreinfrastructure.org/projects/1486)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/tensorflow/tensorflow/badge)](https://api.securityscorecards.dev/projects/github.com/tensorflow/tensorflow)
+[![Fuzzing Status](https://oss-fuzz-build-logs.storage.googleapis.com/badges/tensorflow.svg)](https://bugs.chromium.org/p/oss-fuzz/issues/list?sort=-opened&can=1&q=proj:tensorflow)
+[![Fuzzing Status](https://oss-fuzz-build-logs.storage.googleapis.com/badges/tensorflow-py.svg)](https://bugs.chromium.org/p/oss-fuzz/issues/list?sort=-opened&can=1&q=proj:tensorflow-py)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
+>>>>>>> 63edcca5d0e5693346fd5d29ff5684f2bfc94158
 
 --------------------------------------------------------------------------------
 
@@ -378,10 +389,15 @@ pip install -r requirements.txt
 You can then build the documentation by running `make <format>` from the
 `docs/` folder. Run `make` to get a list of all available output formats.
 
+<<<<<<< HEAD
 If you get a katex error run `npm install katex`.  If it persists, try
 `npm install -g katex`
 
 ### Previous Versions
+=======
+The TensorFlow project strives to abide by generally accepted best practices in
+open-source software development.
+>>>>>>> 63edcca5d0e5693346fd5d29ff5684f2bfc94158
 
 Installation instructions and binaries for previous PyTorch versions may be found
 on [our website](https://pytorch.org/previous-versions).
@@ -397,6 +413,7 @@ Three-pointers to get you started:
 
 ## Resources
 
+<<<<<<< HEAD
 * [PyTorch.org](https://pytorch.org/)
 * [PyTorch Tutorials](https://pytorch.org/tutorials/)
 * [PyTorch Examples](https://github.com/pytorch/examples)
@@ -435,6 +452,34 @@ PyTorch is currently maintained by [Adam Paszke](https://apaszke.github.io/), [S
 A non-exhaustive but growing list needs to mention: Trevor Killeen, Sasank Chilamkurthy, Sergey Zagoruyko, Adam Lerer, Francisco Massa, Alykhan Tejani, Luca Antiga, Alban Desmaison, Andreas Koepf, James Bradbury, Zeming Lin, Yuandong Tian, Guillaume Lample, Marat Dukhan, Natalia Gimelshein, Christian Sarofeen, Martin Raison, Edward Yang, Zachary Devito.
 
 Note: This project is unrelated to [hughperkins/pytorch](https://github.com/hughperkins/pytorch) with the same name. Hugh is a valuable contributor to the Torch community and has helped with many things Torch and PyTorch.
+=======
+*   [TensorFlow.org](https://www.tensorflow.org)
+*   [TensorFlow Tutorials](https://www.tensorflow.org/tutorials/)
+*   [TensorFlow Official Models](https://github.com/tensorflow/models/tree/master/official)
+*   [TensorFlow Examples](https://github.com/tensorflow/examples)
+*   [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/specializations/tensorflow-in-practice)
+*   [TensorFlow: Data and Deployment from Coursera](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
+*   [Getting Started with TensorFlow 2 from Coursera](https://www.coursera.org/learn/getting-started-with-tensor-flow2)
+*   [TensorFlow: Advanced Techniques from Coursera](https://www.coursera.org/specializations/tensorflow-advanced-techniques)
+*   [TensorFlow 2 for Deep Learning Specialization from Coursera](https://www.coursera.org/specializations/tensorflow2-deeplearning)
+*   [Intro to TensorFlow for A.I, M.L, and D.L from Coursera](https://www.coursera.org/learn/introduction-tensorflow)
+*   [Intro to TensorFlow for Deep Learning from Udacity](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+*   [Introduction to TensorFlow Lite from Udacity](https://www.udacity.com/course/intro-to-tensorflow-lite--ud190)
+*   [Machine Learning with TensorFlow on GCP](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
+*   [TensorFlow Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)
+*   [TensorFlow Blog](https://blog.tensorflow.org)
+*   [Learn ML with TensorFlow](https://www.tensorflow.org/resources/learn-ml)
+*   [TensorFlow Twitter](https://twitter.com/tensorflow)
+*   [TensorFlow YouTube](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ)
+*   [TensorFlow model optimization roadmap](https://www.tensorflow.org/model_optimization/guide/roadmap)
+*   [TensorFlow White Papers](https://www.tensorflow.org/about/bib)
+*   [TensorBoard Visualization Toolkit](https://github.com/tensorflow/tensorboard)
+*   [TensorFlow Code Search](https://cs.opensource.google/tensorflow/tensorflow)
+
+Learn more about the
+[TensorFlow community](https://www.tensorflow.org/community) and how to
+[contribute](https://www.tensorflow.org/community/contribute).
+>>>>>>> 63edcca5d0e5693346fd5d29ff5684f2bfc94158
 
 ## License
 
